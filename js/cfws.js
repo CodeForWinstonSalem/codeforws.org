@@ -63,7 +63,7 @@ function init() {
             "featureType": "water",
             "elementType": "geometry",
             "stylers": [{
-                "color": "#000000"
+                "color": "#231F20"
             }, {
                 "lightness": 17
             }]
@@ -71,7 +71,7 @@ function init() {
             "featureType": "landscape",
             "elementType": "geometry",
             "stylers": [{
-                "color": "#000000"
+                "color": "#231F20"
             }, {
                 "lightness": 20
             }]
@@ -79,7 +79,7 @@ function init() {
             "featureType": "road.highway",
             "elementType": "geometry.fill",
             "stylers": [{
-                "color": "#000000"
+                "color": "#231F20"
             }, {
                 "lightness": 17
             }]
@@ -87,7 +87,7 @@ function init() {
             "featureType": "road.highway",
             "elementType": "geometry.stroke",
             "stylers": [{
-                "color": "#000000"
+                "color": "#231F20"
             }, {
                 "lightness": 29
             }, {
@@ -97,7 +97,7 @@ function init() {
             "featureType": "road.arterial",
             "elementType": "geometry",
             "stylers": [{
-                "color": "#000000"
+                "color": "#231F20"
             }, {
                 "lightness": 18
             }]
@@ -105,7 +105,7 @@ function init() {
             "featureType": "road.local",
             "elementType": "geometry",
             "stylers": [{
-                "color": "#000000"
+                "color": "#231F20"
             }, {
                 "lightness": 16
             }]
@@ -113,7 +113,7 @@ function init() {
             "featureType": "poi",
             "elementType": "geometry",
             "stylers": [{
-                "color": "#000000"
+                "color": "#231F20"
             }, {
                 "lightness": 21
             }]
@@ -122,7 +122,7 @@ function init() {
             "stylers": [{
                 "visibility": "on"
             }, {
-                "color": "#000000"
+                "color": "#231F20"
             }, {
                 "lightness": 16
             }]
@@ -131,7 +131,7 @@ function init() {
             "stylers": [{
                 "saturation": 36
             }, {
-                "color": "#000000"
+                "color": "#231F20"
             }, {
                 "lightness": 40
             }]
@@ -144,7 +144,7 @@ function init() {
             "featureType": "transit",
             "elementType": "geometry",
             "stylers": [{
-                "color": "#000000"
+                "color": "#231F20"
             }, {
                 "lightness": 19
             }]
@@ -152,7 +152,7 @@ function init() {
             "featureType": "administrative",
             "elementType": "geometry.fill",
             "stylers": [{
-                "color": "#000000"
+                "color": "#231F20"
             }, {
                 "lightness": 20
             }]
@@ -160,7 +160,7 @@ function init() {
             "featureType": "administrative",
             "elementType": "geometry.stroke",
             "stylers": [{
-                "color": "#000000"
+                "color": "#231F20"
             }, {
                 "lightness": 17
             }, {
